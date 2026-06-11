@@ -7,6 +7,8 @@ This project analyzes sales data using Python and Power BI.
 - Pandas
 - Matplotlib
 - Power BI
+- SQL
+- Mysql
 
 ## Analysis Performed
 - Sales by Region
